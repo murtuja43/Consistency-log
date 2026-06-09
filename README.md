@@ -123,6 +123,9 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Worked on internship project </p>
 
 <p>🟢 Worked on internship project today as well </p>
+
+<p>🟢 Started learning about the new project (AlfaFlow) </p>
+
 <hr/>
 
 
