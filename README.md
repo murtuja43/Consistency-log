@@ -126,6 +126,9 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started learning about the new project (AlfaFlow) </p>
 
+<p>🟢 Read atricles on ecg (defecting M.I)</p>
+
+
 <hr/>
 
 
