@@ -128,6 +128,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Read atricles on ecg (defecting M.I)</p>
 
+<p>🟢 Worked on internship project (lund3d ai) and make a summary of it and uploaded on univer</p>
+
 
 <hr/>
 
