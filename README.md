@@ -131,6 +131,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Worked om youtube shorts scheduling agent (didn’t push these chages today)</p>
 
+<p>🟢 Learning about blockchain (index, timestamp, transactions, hash, etc)</p>
+
 
 <hr/>
 
