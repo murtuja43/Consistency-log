@@ -133,6 +133,7 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learning about blockchain (index, timestamp, transactions, hash, etc)</p>
 
+<p>🟢 Read articles on IOT area </p>
 
 <hr/>
 
