@@ -135,6 +135,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Read articles on IOT area </p>
 
+<p>🟢 Worked on TickLog app (didn't push today as ...)</p>
+
 <hr/>
 
 
