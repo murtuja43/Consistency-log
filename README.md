@@ -137,6 +137,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Worked on TickLog app (didn't push today as ...)</p>
 
+<p>🟢 Today I presented 'production-idle-detection' project in lab and discussed how to improved it.</p>
+
 <hr/>
 
 
