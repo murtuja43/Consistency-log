@@ -139,6 +139,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Today I presented 'production-idle-detection' project in lab and discussed how to improved it.</p>
 
+<p>🟢 Read 3 articles on ophthalmology</p>
+
 <hr/>
 
 
