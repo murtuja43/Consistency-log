@@ -141,6 +141,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Read 3 articles on ophthalmology</p>
 
+<p>🟢 Delivered TickLog project (ready to launch the apk)</p>
+
 <hr/>
 
 
