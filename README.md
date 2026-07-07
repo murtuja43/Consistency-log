@@ -143,6 +143,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Delivered TickLog project (ready to launch the apk)</p>
 
+<p>🟢 Reviewed Abenezer, Allia and Mahwash's projects (in lab)</p>
+
 <hr/>
 
 
