@@ -147,6 +147,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Reviewed 2 articles on Myopia</p>
 
+<p>🟢 Learning the basics of robotics (in lab)</p>
+
 <hr/>
 
 
