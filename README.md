@@ -149,6 +149,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learning the basics of robotics (in lab)</p>
 
+<p>🟢 Made some improvements in Robotics.</p>
+
 <hr/>
 
 
