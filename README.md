@@ -126,7 +126,6 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started learning about the new project (AlfaFlow) </p>
 
-
 <p>🟢 Worked on internship project (lund3d ai) and make a summary of it and uploaded on univer</p>
 
 <p>🟢 Worked om youtube shorts scheduling agent (didn’t push these chages today)</p>
@@ -150,6 +149,8 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Learning the basics of robotics (in lab)</p>
 
 <p>🟢 Made some improvements in Robotics.</p>
+
+<p>🟢 Learning about digital twin. </p>
 
 <hr/>
 
