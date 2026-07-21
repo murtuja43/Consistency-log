@@ -152,6 +152,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learning about digital twin. </p>
 
+<p>🟢Reviewed two paper on digital twin. </p>
+
 <hr/>
 
 
